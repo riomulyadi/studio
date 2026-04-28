@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "creamy-tomato-pasta",
+      "description": "A bowl of creamy tomato pasta garnished with basil.",
+      "imageUrl": "https://picsum.photos/seed/1/1200/800",
+      "imageHint": "pasta tomato"
+    },
+    {
+      "id": "vegan-chocolate-avocado-mousse",
+      "description": "A rich and smooth chocolate avocado mousse in a glass.",
+      "imageUrl": "https://picsum.photos/seed/2/1200/800",
+      "imageHint": "chocolate mousse"
+    },
+    {
+      "id": "gluten-free-banana-bread",
+      "description": "A loaf of freshly baked gluten-free banana bread.",
+      "imageUrl": "https://picsum.photos/seed/3/1200/800",
+      "imageHint": "banana bread"
+    },
+    {
+      "id": "spicy-chicken-stir-fry",
+      "description": "A colorful and spicy chicken and vegetable stir-fry in a wok.",
+      "imageUrl": "https://picsum.photos/seed/4/1200/800",
+      "imageHint": "chicken stir-fry"
+    },
+    {
+      "id": "mediterranean-quinoa-salad",
+      "description": "A healthy quinoa salad with cucumber, tomatoes, and feta cheese.",
+      "imageUrl": "https://picsum.photos/seed/5/1200/800",
+      "imageHint": "quinoa salad"
+    },
+    {
+      "id": "classic-beef-tacos",
+      "description": "Three classic beef tacos with fresh toppings.",
+      "imageUrl": "https://picsum.photos/seed/6/1200/800",
+      "imageHint": "beef tacos"
+    },
+    {
+      "id": "blueberry-pancakes",
+      "description": "A stack of fluffy blueberry pancakes with syrup.",
+      "imageUrl": "https://picsum.photos/seed/7/1200/800",
+      "imageHint": "blueberry pancakes"
+    },
+    {
+      "id": "lemon-herb-roasted-chicken",
+      "description": "A whole roasted chicken with lemon and herbs.",
+      "imageUrl": "https://picsum.photos/seed/8/1200/800",
+      "imageHint": "roasted chicken"
+    }
+  ]
 }
